@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Scaling AI apps using cloud-native infrastructure (AWS/GCP)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DeepakKTS](https://github.com/DeepakKTS)
+- 👨‍💻 All of my projects are available at **[Projects](https://github.com/DeepakKTS?tab=repositories)**
 
 - 💬 Ask me about **React.js, Node.js, Express, MongoDB, Tailwind, AWS, REST APIs**
 
