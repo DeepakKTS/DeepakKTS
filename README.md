@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [AI-Powered Supply Chain Demand Forecasting System](https://ai-logistics-lens.streamlit.app)
 
+- 🏅 Check out my latest certifications on **[Credly](https://www.credly.com/users/deepak-kumaran-t-s/badges#credly)**  
+
 - 🌱 I’m currently learning **Machine Learning, Generative AI, AWS, GCP**
 
 - 👯 I’m looking to collaborate on **AI-based EdTech Tools, Full Stack Projects with Social Impact**
@@ -21,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepak kumaran ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak kumaran ts" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepak-kumaran-ts-614674204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak kumaran ts" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
